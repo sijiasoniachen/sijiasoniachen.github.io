@@ -10,8 +10,6 @@ nav_order: 5
 
 <!-- <strong style="font-size: 22px;">Instructor of Record</strong> -->
 <font size="5"><u> Instructor of Record </u></font>
-
-<p>&nbsp;</p>
 ARE 4476: **International Trade and Policy**, University of Connecticut (Fall 2023)\
 *Class Size: 20 students* - [Syllabus](https://drive.google.com/file/d/1tqwhB-n2v7plphTK6eHGPdwHDVXC8YOm/view?usp=sharing)
 
@@ -19,7 +17,6 @@ ARE 4476: **International Trade and Policy**, University of Connecticut (Fall 20
 <p>&nbsp;</p>
 
 <font size="5"><u> Guest Lecturer/Instructor </u></font>
-
 ECON 2447: **The Economics of Sports** (Spring 2026) 
 
 ARE 1333Q: **Introduction to Data and Visualization** (Spring 2026)\
