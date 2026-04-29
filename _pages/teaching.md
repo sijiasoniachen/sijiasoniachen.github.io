@@ -24,7 +24,7 @@ University of Connecticut
 ECON 2447: **The Economics of Sports** (Spring 2026) 
 
 ARE 1333Q: **Introduction to Data and Visualization** (Spring 2026)\
-Lecture: *"How to Develop a High-Quality Final Project"* <font size="2"><u> (slides available upon request)</u></font>
+Lecture: *"How to Develop a High-Quality Final Project"* <font size="2"> (slides available upon request)</font>
 
 
 <p>&nbsp;</p>
