@@ -31,7 +31,7 @@ I am currently on the academic job market. My job market paper examines the effe
 I am a Ph.D. candidate in the Department of Agricultural and Resource Economics at the University of Connecticut. With an interest in applied microeconomics, my research focuses on international trade, with a particular emphasis on examining the impact of trade remedies and sunset review policies on U.S. trade. I work as a research assistant in Dr. Steinbach's research group and have presented papers at the [AAEA](https://www.aaea.org/UserFiles/file/am23-pro-v3-FINAL.pdf), [CEA](https://www.economics.ca/cpages/who-we-are), [ASHEcon](https://ashecon.confex.com/ashecon/2023/meetingapp.cgi/Session/4772), and [NEARA](https://web.cvent.com/event/7b55727c-b6dd-40cd-8844-95df17a095d6/summary). I am also an [instructor of record](https://catalog.uconn.edu/directory-of-courses/course/ARE/4476/) at the University of Connecticut for the senior-level undergraduate course [International Trade and Policy](/teaching/).
 
  I'm currently on the job market and will be presenting my work at the [2025 IATRC](https://iatrc.aaec.vt.edu/annual-meetings/). My job market paper examines the effects of the implementation of anti-dumping and countervailing duties on US agricultural imports.
--->
+
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
@@ -59,3 +59,4 @@ I am a Ph.D. candidate in the Department of Agricultural and Resource Economics 
         <button type="submit" class="btn btn-primary">Send</button>
     </form>
 </div>
+-->
