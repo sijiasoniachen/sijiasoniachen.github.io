@@ -18,12 +18,11 @@ ARE 4476: **International Trade and Policy**, University of Connecticut (Fall 20
 
 <p>&nbsp;</p>
 
-<font size="5"><u> Guest Lecturing/Instructor </u></font>
+<font size="5"><u> Guest Lecturer/Instructor </u></font>
 
-<p>&nbsp;</p>
-ECON 2447: **Introduction to Data and VisualizationThe Economics of Sports** (Spring 2026) 
+ECON 2447: **The Economics of Sports** (Spring 2026) 
 
-ARE 1333Q: **Introduction to Data and VisualizationThe Economics of Sports** (Spring 2026)\
+ARE 1333Q: **Introduction to Data and Visualization** (Spring 2026)\
 Lecture: *"How to Develop a High-Quality Final Project"* (slides available upon request)
 
 
