@@ -7,10 +7,10 @@ subtitle: <a href="https://www.linkedin.com/in/sijiasoniachen/" title="LinkedIn"
 profile:
   align: right
   image: piic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: 
-    <p>1376 Storrs Road, Unit</p>
-    <p>4021, Storrs, CT 06269</p>
+  image_circular: false
+  more_info: >
+    <p style="margin-top:-10px; margin-bottom:2px; font-size:0.85rem; line-height:1.3;">1376 Storrs Road, Unit</p>
+    <p style="margin-bottom:2px; font-size:0.85rem; line-height:1.3;">4021, Storrs, CT 06269</p>
 
 
 news: false  # includes a list of news items
