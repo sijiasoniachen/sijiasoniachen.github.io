@@ -21,7 +21,7 @@ ARE 4476: **International Trade and Policy** (Fall 2023)\
 <font size="5"><u> Guest Lecturer/Instructor </u></font>
 University of Connecticut
 
-ECON 2447: **The Economics of Sports** (Spring 2026)\ 
+ECON 2447: **The Economics of Sports** (Spring 2026)\
 Lecture: *"AI Literacy in Economics Coursework"* <font size="2"> (more info available upon request)</font>
 
 ARE 1333Q: **Introduction to Data and Visualization** (Spring 2026)\
