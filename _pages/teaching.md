@@ -10,7 +10,9 @@ nav_order: 5
 
 <!-- <strong style="font-size: 22px;">Instructor of Record</strong> -->
 <font size="5"><u> Instructor of Record </u></font>
-ARE 4476: **International Trade and Policy**, University of Connecticut (Fall 2023)\
+University of Connecticut
+
+ARE 4476: **International Trade and Policy** (Fall 2023)\
 *Class Size: 20 students* - [Syllabus](https://drive.google.com/file/d/1tqwhB-n2v7plphTK6eHGPdwHDVXC8YOm/view?usp=sharing)
 
 
