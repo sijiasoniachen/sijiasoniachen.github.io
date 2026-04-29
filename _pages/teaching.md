@@ -19,6 +19,15 @@ ARE 4476: **International Trade and Policy**, University of Connecticut (Fall 20
 
 <p>&nbsp;</p>
 
+<font size="5"><u> Guest Lecturing/Instructor </u></font>
+<p>&nbsp;</p>
+ECON 2447: **The Economics of Sports** (Spring 2026) 
+
+ARE 1333Q: **Introduction to Data and Visualization** (Spring 2026)\
+Lecture: "How to Develop a High-Quality Final Project" (slides available upon request)
+
+<p>&nbsp;</p>
+
 <font size="5"><u> Teaching Assistant </u></font>
 <p>&nbsp;</p>
 ARE 2215: **Business Management** (Spring 2023, Spring 2024)
