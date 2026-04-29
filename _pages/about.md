@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I am a Ph.D. candidate in the Department of Agricultural and Resource Economics at the University of Connecticut. I am an applied microeconomist with research in international trade and political economy. My primary work examines the impact of trade remedies and sunset review policies on U.S. trade. I work as a research assistant in Dr. Sandro Steinbach's research group and have presented papers at the AAEA, CEA, IATRC, and NEARA.
+I am a Ph.D. candidate in the Department of Agricultural and Resource Economics at the University of Connecticut. I am an applied microeconomist with research in international trade and political economy. My primary work examines the impact of trade remedies and sunset review policies on U.S. trade. I collaborate with Dr. Sandro Steinbach at the Center for Agricultural Policy and Trade Studies at North Dakota State University, and have presented papers at the Agricultural and Applied Economics Association (AAEA), the Canadian Economics Association (CEA), the American Society of Health Economists (ASHEcon), and the Northeastern Agricultural and Resource Economics Association (NEARA).
 
 I have served as an instructor of record at the University of Connecticut for the senior-level undergraduate course International Trade and Policy, and have ongoing research on economic pedagogy. Upcoming presentations include the **2027 ASSA Annual Meeting** and the **2026 SEA Annual Meeting** (Presidential Session), where I will present co-authored work on generative AI in undergraduate economics.
 
