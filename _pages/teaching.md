@@ -12,7 +12,6 @@ nav_order: 5
 <font size="5"><u> Instructor of Record </u></font>
 
 <p>&nbsp;</p>
-
 ARE 4476: **International Trade and Policy**, University of Connecticut (Fall 2023)\
 *Class Size: 20 students* - [Syllabus](https://drive.google.com/file/d/1tqwhB-n2v7plphTK6eHGPdwHDVXC8YOm/view?usp=sharing)
 
@@ -22,11 +21,10 @@ ARE 4476: **International Trade and Policy**, University of Connecticut (Fall 20
 <font size="5"><u> Guest Lecturing/Instructor </u></font>
 
 <p>&nbsp;</p>
-
 ECON 2447: **Introduction to Data and VisualizationThe Economics of Sports** (Spring 2026) 
 
 ARE 1333Q: **Introduction to Data and VisualizationThe Economics of Sports** (Spring 2026)\
-Lecture: "How to Develop a High-Quality Final Project" (slides available upon request)
+Lecture: *"How to Develop a High-Quality Final Project"* (slides available upon request)
 
 
 <p>&nbsp;</p>
@@ -34,7 +32,6 @@ Lecture: "How to Develop a High-Quality Final Project" (slides available upon re
 <font size="5"><u> Teaching Assistant </u></font>
 
 <p>&nbsp;</p>
-
 ARE 2215: **Business Management** (Spring 2023, Spring 2024)
 
 ARE 3221: **Managerial Economics and Business Strategies** (Fall 2019, Spring 2021, Spring 2024)
