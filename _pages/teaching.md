@@ -26,6 +26,7 @@ ECON 2447: **The Economics of Sports** (Spring 2026)
 ARE 1333Q: **Introduction to Data and Visualization** (Spring 2026)\
 Lecture: "How to Develop a High-Quality Final Project" (slides available upon request)
 
+
 <p>&nbsp;</p>
 
 <font size="5"><u> Teaching Assistant </u></font>
