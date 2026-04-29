@@ -8,9 +8,11 @@ profile:
   align: right
   image: piic.jpg
   image_circular: false
-  more_info: >
-    <p style="margin-top:-10px; margin-bottom:2px; font-size:0.85rem; line-height:1.3;">1376 Storrs Road, Unit</p>
-    <p style="margin-bottom:2px; font-size:0.85rem; line-height:1.3;">4021, Storrs, CT 06269</p>
+more_info: >
+  <div style="margin-top:-25px; font-size:0.8rem; line-height:1.2;">
+    <p style="margin:0 0 2px 0;">1376 Storrs Road, Unit</p>
+    <p style="margin:0;">4021, Storrs, CT 06269</p>
+  </div>
 
 
 news: false  # includes a list of news items
